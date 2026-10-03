@@ -24,6 +24,8 @@ A full-stack personal finance app, deployed on Render. Expense logging, monthly 
 **[Portfolio Site](https://github.com/chekus-dev/my-online-cv)** · Flask · Jinja · Tailwind
 Data-driven portfolio with live GitHub stats pulled from the API and cached, a case study page, security headers, custom error pages, sitemap, accessibility fixes, and a gunicorn production setup.
 
+** LIVE URL https://my-online-cv.onrender.com/
+
 **[HTTP Server with JSON](https://github.com/chekus-dev/updated-http-server-in-golang)** · Go
 Standard-library JSON API with request timeouts, graceful shutdown on `SIGINT`/`SIGTERM`, and `/healthz` and `/readyz` endpoints.
 
