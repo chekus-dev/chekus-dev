@@ -18,7 +18,8 @@ A full-stack personal finance app, deployed on Render. Expense logging, monthly 
 - Soft delete with undo and a nightly purge
 - Embedded SQL migrations that run at startup
 - Unit tests for the rate limiter and search logic
-** LIVE URL https://budget-tracker-1-svws.onrender.com/
+  
+- LIVE URL https://budget-tracker-1-svws.onrender.com/
 
 **[Portfolio Site](https://github.com/chekus-dev/my-online-cv)** · Flask · Jinja · Tailwind
 Data-driven portfolio with live GitHub stats pulled from the API and cached, a case study page, security headers, custom error pages, sitemap, accessibility fixes, and a gunicorn production setup.
