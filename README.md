@@ -13,72 +13,116 @@
 [![Email](https://img.shields.io/badge/Email-chekusjoseph@yahoo.com-0f172a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:chekusjoseph@yahoo.com)
 ![Location](https://img.shields.io/badge/Based_in-Nigeria_🇳🇬-16a34a?style=for-the-badge)
 
+<br/><br/>
+
+> *"Code is the easy part. Shipping something real, end to end, is the job."*
+
 </div>
 
----
+<br/>
 
-## 👨🏽‍💻 About
+## 👋 A bit about me
 
-**Full-stack, AI-native engineer** from Nigeria. I design, build, and ship complete web products: Go and Flask backends, PostgreSQL, Tailwind frontends, and deployment.
+I'm Chekus — a full-stack, AI-native engineer working out of Nigeria. I don't just write code; I design, build, secure, and ship complete products, from the database schema to the deploy pipeline.
 
-I work with AI in the loop to move faster, and I **read, test, and own every line that ships.**
+I lean on AI tools to move fast — planning, scaffolding, debugging — but every line that reaches production has been read, tested, and understood by me first. No black boxes, no copy-paste I can't explain.
 
-| 🛠️ What I build | |
-|---|---|
-| 🔐 **Secure web apps** | Auth, validation, rate limiting, bot protection, safe SQL |
-| ⚙️ **Go services** | Standard-library routing, JSON APIs, graceful shutdown, health checks |
-| 🎨 **Modern UIs** | Clean, accessible, responsive interfaces with Tailwind |
-| 📊 **Data tooling** | Reporting and automation in Python |
+```
+while (alive) {
+    build();
+    ship();
+    learn();
+}
+```
 
----
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Secure web apps
+Auth flows, input validation, rate limiting, bot protection, and SQL that doesn't bite back.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Go services
+Standard-library routing, clean JSON APIs, graceful shutdown, and health checks that actually mean something.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Modern, honest UIs
+Clean, accessible, responsive interfaces built with Tailwind — no clutter, no dark patterns.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data tooling
+Reporting and automation scripts in Python that turn raw numbers into decisions.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🚀 Featured Projects
 
 ### 💰 [Budget Tracker](https://github.com/chekus-dev/budget-tracker)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A full-stack personal finance app, deployed on Render. Expense logging, monthly budgets with warnings, search and filters across all history, CSV/PDF export, light/dark themes, and a Python reporting companion.
+A full-stack personal finance app, deployed on Render — built for the way people actually track money: fast expense logging, monthly budgets that warn you before you overspend, search and filters across your whole history, CSV/PDF export, light and dark themes, and a Python companion for deeper reporting.
 
 <details>
-<summary><b>Engineering highlights</b></summary>
+<summary><b>🔍 Engineering highlights</b></summary>
+<br/>
 
 - 🔑 Auth with password reset by email
-- 🛡️ Brute-force protection: per-user and per-IP rate limits
+- 🛡️ Brute-force protection — per-user and per-IP rate limits
 - 🤖 reCAPTCHA signup guard, verified server-side
-- ♻️ Soft delete with undo and a nightly purge
-- 🗄️ Embedded SQL migrations that run at startup
-- ✅ Unit tests for the rate limiter and search logic
+- ♻️ Soft delete with undo, plus a nightly purge job
+- 🗄️ Embedded SQL migrations that run automatically at startup
+- ✅ Unit tests covering the rate limiter and search logic
 
 </details>
+
+<br/>
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-budget--tracker-f97316?style=for-the-badge)](https://budget-tracker-1-svws.onrender.com/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chekus-dev/budget-tracker)
 
----
+<br/>
 
 ### 🌐 [Portfolio Site](https://github.com/chekus-dev/my-online-cv)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
-Data-driven portfolio with live GitHub stats pulled from the API and cached, a case study page, security headers, custom error pages, sitemap, accessibility fixes, and a gunicorn production setup.
+The site you're probably looking at right now. Data-driven, with live GitHub stats pulled from the API and cached, a written case study, security headers, custom error pages, a sitemap, accessibility fixes, and a proper gunicorn production setup behind it.
 
 [![Live Site](https://img.shields.io/badge/▶_Live_Site-my--online--cv-f97316?style=for-the-badge)](https://my-online-cv-4.onrender.com/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chekus-dev/my-online-cv)
 
----
+<br/>
 
 ### ⚡ [HTTP Server with JSON](https://github.com/chekus-dev/updated-http-server-in-golang)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-Standard-library JSON API with request timeouts, graceful shutdown on `SIGINT`/`SIGTERM`, and `/healthz` and `/readyz` endpoints.
+A standard-library JSON API with request timeouts, graceful shutdown on `SIGINT`/`SIGTERM`, and `/healthz` + `/readyz` endpoints — the small details that separate a toy server from one you'd trust in production.
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
@@ -97,17 +141,17 @@ Standard-library JSON API with request timeouts, graceful shutdown on `SIGINT`/`
 
 </div>
 
----
+<br/>
 
-## 🧠 How I Work
+## 🧠 How I work
 
 | | |
 |---|---|
-| 🤝 **AI-assisted development** | LLM tools help me plan, scaffold, debug, and review. I verify everything myself. |
-| 🪜 **Small, tested steps** | Each layer works before the next is added. |
-| 📝 **Honest documentation** | My READMEs record the setbacks, not just the wins. |
+| 🤝 **AI-assisted, not AI-replaced** | LLM tools help me plan, scaffold, debug, and review faster — but I verify everything myself before it ships. |
+| 🪜 **Small, tested steps** | Each layer works before the next one gets built on top of it. No stacking guesses. |
+| 📝 **Honest documentation** | My READMEs record the setbacks along with the wins, not just the highlight reel. |
 
----
+<br/>
 
 ## 📈 GitHub Stats
 
@@ -118,20 +162,24 @@ Standard-library JSON API with request timeouts, graceful shutdown on `SIGINT`/`
 
 </div>
 
----
+<br/>
 
-## 🎯 Next
+## 🎯 What's next
 
-Building products of my own and, eventually, a company.
+Building products of my own — and, eventually, a company around them.
 
-## 🤝 Let's Work Together
+<br/>
 
-Open to client projects and collaboration.
+## 🤝 Let's work together
+
+I'm open to client projects and collaboration. If you've got something worth building, I'd like to hear about it.
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-f97316?style=for-the-badge)](https://my-online-cv.onrender.com/)
 [![Email](https://img.shields.io/badge/📫_Email_Me-0f172a?style=for-the-badge)](mailto:chekusjoseph@yahoo.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:f97316,100:0f172a&section=footer" width="100%" alt="footer"/>
 
