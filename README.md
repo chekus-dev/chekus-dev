@@ -68,7 +68,7 @@ A full-stack personal finance app, deployed on Render. Expense logging, monthly 
 
 Data-driven portfolio with live GitHub stats pulled from the API and cached, a case study page, security headers, custom error pages, sitemap, accessibility fixes, and a gunicorn production setup.
 
-[![Live Site](https://img.shields.io/badge/▶_Live_Site-my--online--cv-f97316?style=for-the-badge)](https://my-online-cv-4.onrender.com/
+[![Live Site](https://img.shields.io/badge/▶_Live_Site-my--online--cv-f97316?style=for-the-badge)](https://my-online-cv-4.onrender.com/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chekus-dev/my-online-cv)
 
 ---
