@@ -102,6 +102,34 @@ A full-stack personal finance app, deployed on Render — built for the way peop
 
 <br/>
 
+### ✅ [Daymark](https://github.com/chekus-dev/todo-app)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+A Flask todo app with real staying power, not just a CRUD demo: due dates and reminders, recurring tasks that regenerate themselves on completion, tags, cross-list search, and JSON import/export, with per-user light/dark theming.
+
+<details>
+<summary><b>🔍 Engineering highlights</b></summary>
+<br/>
+
+- 🔁 Recurring todos — marking one done auto-creates the next occurrence (daily/weekly/monthly)
+- 🔐 Passwords hashed with Werkzeug, sessions via Flask-Login
+- 🎨 Per-user theme preference, applied through a `data-theme` attribute
+- 🗄️ PostgreSQL in production, SQLite for local development
+- 🚀 Gunicorn-ready with a `Procfile` for one-command deploys
+
+</details>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-daymark-f97316?style=for-the-badge)](https://todo-list-app-4-6mr8.onrender.com/)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chekus-dev/todo-app)
+
+<br/>
+
 ### 🌐 [Portfolio Site](https://github.com/chekus-dev/my-online-cv)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
