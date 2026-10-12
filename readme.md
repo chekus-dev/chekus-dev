@@ -23,7 +23,7 @@
 
 ## 👋 A bit about me
 
-I'm Chekus — a full-stack, AI-native engineer working out of Nigeria. I don't just write code; I design, build, secure, and ship complete products, from the database schema to the deploy pipeline.
+I'm Chekus — a full-stack, AI-native engineer working in Nigeria. I don't just write code; I design, build, secure, and ship complete products, from the database schema to the deploy pipeline.
 
 I lean on AI tools to move fast — planning, scaffolding, debugging — but every line that reaches production has been read, tested, and understood by me first. No black boxes, no copy-paste I can't explain.
 
