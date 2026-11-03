@@ -97,7 +97,7 @@ A full-stack personal finance app, deployed on Render — built for the way peop
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-budget--tracker-f97316?style=for-the-badge)](https://budget-tracker-1-svws.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-budget--tracker-f97316?style=for-the-badge)](https://budget-tracker-2-1o9w.onrender.com/)
 [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/chekus-dev/budget-tracker)
 
 <br/>
