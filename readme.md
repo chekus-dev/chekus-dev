@@ -27,13 +27,6 @@ I'm Chekus — a full-stack, AI-native engineer working in Nigeria. I don't just
 
 I lean on AI tools to move fast — planning, scaffolding, debugging — but every line that reaches production has been read, tested, and understood by me first. No black boxes, no copy-paste I can't explain.
 
-```
-while (alive) {
-    build();
-    ship();
-    learn();
-}
-```
 
 <br/>
 
