@@ -72,7 +72,8 @@ Reporting and automation scripts in Python that turn raw numbers into decisions.
 
 ## 🚀 Featured Projects
 
-### 💰 [Nexgen Guru](https://github.com/chekus-dev/)
+### <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b84d300d-35e6-42f8-bedd-dbed9df3817c" />
+[Nexgen Guru](https://github.com/chekus-dev/)
 
 
 > **Learn. Create. Innovate. Lead.**
