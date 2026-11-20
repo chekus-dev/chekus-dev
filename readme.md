@@ -170,16 +170,6 @@ This repository contains the **complete source code** for our website: a modern,
 
 <br>
 
----
-
-## 🚀 Quick Start
-
-### 📋 Prerequisites
-![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
 
 ### 💰 [Budget Tracker](https://github.com/chekus-dev)
 
