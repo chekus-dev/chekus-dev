@@ -73,7 +73,7 @@ Reporting and automation scripts in Python that turn raw numbers into decisions.
 ## 🚀 Featured Projects
 
 ### <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b84d300d-35e6-42f8-bedd-dbed9df3817c" />
-[Nexgen Guru](https://github.com/chekus-dev/)
+[Nexgen Guru](https://nexgen-guru.onrender.com)
 
 
 <p class="floating-tagline">Learn. Create. Innovate. Lead.</p>
@@ -188,7 +188,7 @@ This repository contains the **complete source code** for our website: a modern,
 
 
 
-### 💰 [Budget Tracker](https://github.com/chekus-dev/)
+### 💰 [Budget Tracker](https://github.com/chekus-dev)
 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
