@@ -271,10 +271,10 @@ Four small servers, each one step further into Go's standard library — built i
 
 | # | Project | What it adds |
 |---|---|---|
-| 1 | [simple-http-server-in-golang](https://github.com/chekus-dev/simple-http-server-in-golang) | Multiple routes with `net/http`, plain text responses |
-| 2 | [learn-go-http-server](https://github.com/chekus-dev/learn-go-http-server) | Status codes, query parameters, JSON responses, GET/POST handling |
-| 3 | [go-http-template-server](https://github.com/chekus-dev/go-http-template-server) | Server-rendered HTML via `html/template`, request validation |
-| 4 | [updated-http-server-in-golang](https://github.com/chekus-dev/updated-http-server-in-golang) | Encoded JSON APIs, request timeouts, graceful shutdown on `SIGINT`/`SIGTERM`, `/healthz` + `/readyz` |
+| 1 | [simple-http-server-in-golang](https://github.com/chekus-dev) | Multiple routes with `net/http`, plain text responses |
+| 2 | [learn-go-http-server](https://github.com/chekus-dev) | Status codes, query parameters, JSON responses, GET/POST handling |
+| 3 | [go-http-template-server](https://github.com/chekus-dev) | Server-rendered HTML via `html/template`, request validation |
+| 4 | [updated-http-server-in-golang](https://github.com/chekus-dev) | Encoded JSON APIs, request timeouts, graceful shutdown on `SIGINT`/`SIGTERM`, `/healthz` + `/readyz` |
 
 No third-party packages in any of them — the point was to understand `net/http`, `html/template`, and `encoding/json` directly before reaching for a framework.
 
