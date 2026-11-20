@@ -188,7 +188,7 @@ This repository contains the **complete source code** for our website: a modern,
 
 
 
-### 💰 [Budget Tracker](https://github.com/chekus-dev/budget-tracker)
+### 💰 [Budget Tracker]
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -218,7 +218,7 @@ A full-stack personal finance app, deployed on Render — built for the way peop
 
 <br/>
 
-### ✅ [Daymark](https://github.com/chekus-dev/todo-app)
+### ✅ [Daymark]
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -246,7 +246,7 @@ A Flask todo app with real staying power, not just a CRUD demo: due dates and re
 
 <br/>
 
-### 🌐 [Portfolio Site](https://github.com/chekus-dev/my-online-cv)
+### 🌐 [Portfolio Site]
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
