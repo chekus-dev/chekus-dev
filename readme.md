@@ -76,8 +76,7 @@ Reporting and automation scripts in Python that turn raw numbers into decisions.
 [Nexgen Guru](https://github.com/chekus-dev/)
 
 
-> **Learn. Create. Innovate. Lead.**
-
+<p class="floating-tagline">Learn. Create. Innovate. Lead.</p>
 <br>
 
 [![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
