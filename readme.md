@@ -65,7 +65,8 @@ Reporting and automation scripts in Python that turn raw numbers into decisions.
 
 ## 🚀 Featured Projects
 
-### <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b84d300d-35e6-42f8-bedd-dbed9df3817c" />
+### <img width="1292" height="1217" alt="logo" src="https://github.com/user-attachments/assets/0f5db829-e233-45b2-bd68-f71d41d3dc57" />
+
 [Nexgen Guru](https://nexgen-guru.onrender.com)
 
 
